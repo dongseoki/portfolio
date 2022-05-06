@@ -34,6 +34,7 @@
 >AWS lightsail
 
 > [배포 링크](http://3.39.142.146:8000/)
+> 
 >[프로젝트 상세 설명](https://github.com/dongseoki/jumpToDjangoExercise) 참고
 
 ---

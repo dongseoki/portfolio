@@ -9,7 +9,6 @@
 (여기에 자기 소개)
 - 2년차 웹개발자로 웹서비스를 유지보수 및 신규 페이지를 작업 하였습니다.
 - 요새 Django 공부하고 있습니다. 감사합니다.
-- T
 
 </br>
 
@@ -47,7 +46,9 @@
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Mybatis
 >MySQL / Spring Security / React
+>
 > [배포 링크](http://www.trackday.site/)
+>
 >[프로젝트 상세 설명](https://github.com/dongseoki/trackdayb) 참고
 
 ---
